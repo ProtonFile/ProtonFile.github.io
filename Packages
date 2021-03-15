@@ -1,3 +1,20 @@
+Package: com.protonfile.ShowAllApps
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Addons (Apps Manager)
+Maintainer: ProtonFile <protonfile@hotmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs//com.protonfile.ShowAllApps_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4790
+MD5sum: f3ada519cffe7e83f66702b8a1037a86
+SHA1: 9bab66cd254abc53e74c31381d38eabf5bb31518
+SHA256: 2a9bbd68ae1157a1f2985da5c8bb2ddae86c947ada00debb3ca2ff9d83609e76
+SHA512: acc3720b10644a43e10173c4ddc3e8fd2ae7b09e5090e04ed1991768275eda0ddd6d9bab69c020f94131f1aabfa5a5d7be82dc248482ca77c6db97e977ac8913
+Description: Show All Apps in utilities Apps Manager
+Name: Show All Apps
+Author: NeutronFile
+
 Package: com.protonfile.jbzcarrier
 Architecture: iphoneos-arm
 Version: 1.0-1E
