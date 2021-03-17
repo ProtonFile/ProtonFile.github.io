@@ -3,38 +3,17 @@ Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
 Section: Addons (Apps Manager)
 Maintainer: ProtonFile <protonfile@hotmail.com>
-Installed-Size: 104
+Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs//com.protonfile.ShowAllApps_0.0.1-1+debug_iphoneos-arm.deb
-Size: 4754
-MD5sum: b18fd30c087e1bc97f05a7aa45373670
-SHA1: 28de199f24bad0dd76bd8fd5192138b703fa13a4
-SHA256: 5fef2af30f99e912d6c10f668a7ced873c7cd12fc986b1443aeb92c7ade2e800
-SHA512: 20dc236fc6ad4ced3b2c9991dfe23ebb1c649563d2a96b25e9e111a4a7e7e393a173a8fd0b9b135fdec00e68414db85d5049c508c37730e3693e66e505dd04b8
-Homepage: https://neutronfile.org/
+Size: 4790
+MD5sum: f3ada519cffe7e83f66702b8a1037a86
+SHA1: 9bab66cd254abc53e74c31381d38eabf5bb31518
+SHA256: 2a9bbd68ae1157a1f2985da5c8bb2ddae86c947ada00debb3ca2ff9d83609e76
+SHA512: acc3720b10644a43e10173c4ddc3e8fd2ae7b09e5090e04ed1991768275eda0ddd6d9bab69c020f94131f1aabfa5a5d7be82dc248482ca77c6db97e977ac8913
 Description: Show All Apps in utilities Apps Manager
 Name: Show All Apps
 Author: NeutronFile
-Depiction: https://ProtonFile.github.io/depic/ShowAllApps.html
-
-Package: com.protonfile.ShowAllApps
-Architecture: iphoneos-arm
-Version: 0.0.2-1+debug
-Section: Addons (Apps Manager)
-Maintainer: ProtonFile <protonfile@hotmail.com>
-Installed-Size: 744
-Depends: mobilesubstrate
-Filename: ./debs//com.protonfile.ShowAllApps_0.0.2-1+debug_iphoneos-arm.deb
-Size: 191508
-MD5sum: 71fd65eacdc170d167c22dc226ab6cce
-SHA1: 5a6d0243fbf2ee1a8073a029d540376003ab2bc8
-SHA256: b7920adba75f41e1f815fd18925ee27343f4fa954096f0fb58909cd8f3438e66
-SHA512: 4bff570d2f59813f39e8b4900b9e952fbaa9565afd3463d26ec6475acfaf06a380b9d65cbf810f5665018175d515872a2a499eb8a31bf110b8cf097b0e71256a
-Homepage: https://neutronfile.org/
-Description: Show All Apps in utilities Apps Manager
-Name: Show All Apps
-Author: NeutronFile
-Depiction: https://ProtonFile.github.io/depic/ShowAllApps.html
 
 Package: com.protonfile.jbzcarrier
 Architecture: iphoneos-arm
